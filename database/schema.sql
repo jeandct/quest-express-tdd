@@ -4,4 +4,3 @@ CREATE TABLE IF NOT EXISTS bookmark (
   url VARCHAR(255),
   title VARCHAR(255)
 );
-
